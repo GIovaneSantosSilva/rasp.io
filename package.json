@@ -1,0 +1,30 @@
+{
+  "name": "rasp.io",
+  "version": "1.0.0",
+  "description": "Modern Raspberry gpio control using node.js",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Giovane Santos <giovanesantos1999@gmail.com>",
+  "engines": {
+    "node": ">=10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "pi",
+    "gpio",
+    "rasp",
+    "rasp.io",
+    "raspberry",
+    "raspberrypi",
+    "raspberry pi"
+  ],
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
