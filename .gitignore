@@ -31,3 +31,6 @@ yarn.lock
 
 ### Mac ###
 .DS_Store
+
+### JetBrains ###
+.idea
