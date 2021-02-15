@@ -1,5 +1,5 @@
 {
-  "name": "rasp.io",
+  "name": "@gsantossilva/rasp.io",
   "title": "Rasp.io",
   "version": "1.0.0",
   "description": "Modern Raspberry gpio control using node.js",

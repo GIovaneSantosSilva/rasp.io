@@ -9,11 +9,11 @@
 ### Installation
 
 ```shell
-npm install rasp.io
+npm install @gsantossilva/rasp.io
 ```
 or
 ```shell
-yarn add rasp.io
+yarn add @gsantossilva/rasp.io
 ```
 ### Usage
 
